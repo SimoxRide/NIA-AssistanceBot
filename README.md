@@ -7,7 +7,10 @@ Welcome to the NIA repository, a voice assistant for PC that allows you to launc
 4. **Person Recognition from Webcam**: NIA is capable of using your computer's webcam is able to recognize who you are if you introduce yourself. 
 ##Installation
 Clone the NIA repository to your computer:
->git clone https://github.com/yourusername/niaproject.git
+```
+$ git clone https://github.com/yourusername/niaproject.git
+
+```
 Make sure you have Python 3 installed on your system.
 
 Install the necessary dependencies using the command:
