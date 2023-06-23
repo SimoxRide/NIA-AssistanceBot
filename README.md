@@ -1,4 +1,4 @@
-#NIA - Voice Assistant for PC
+# NIA - Voice Assistant for PC
 Welcome to the NIA repository, a voice assistant for PC that allows you to launch applications, engage in conversations, download videos from YouTube, and recognize speakers from the webcam. NIA is designed to simplify your computer usage experience by providing natural voice interaction.
 ##Features
 1. **Application Launch**: NIA enables you to quickly launch your favorite applications using voice commands.
