@@ -8,20 +8,20 @@ Welcome to the NIA repository, a voice assistant for PC that allows you to launc
 ## Installation
 Clone the NIA repository to your computer:
 ```
- git clone https://github.com/yourusername/niaproject.git
+git clone https://github.com/yourusername/niaproject.git
 ```
 Make sure you have Python 3 installed on your system.
 
 Install the necessary dependencies using the command:
 ```
- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Properly set up your computer's webcam for voice recognition. Ensure that the webcam is functional and correctly connected.
 
 Launch the NIA application by running the NIA-Core.py file:
 ```
- python NIA-Core.py
+python NIA-Core.py
 ```
 You are now ready to use NIA. Follow the on-screen instructions to launch applications, engage in dialogues, download YouTube videos, or utilize voice recognition from the webcam.
 
@@ -32,13 +32,13 @@ Fork this repository and clone it to your computer.
 
 Create a new branch for your contribution:
 ```
- git checkout -b my-contribution
+git checkout -b my-contribution
 ```
 Make the desired changes and ensure that the code is well-documented.
 
 Run tests to verify that everything is functioning correctly:
 ```
- python run_tests.py
+python run_tests.py
 ```
 Commit your changes:
 ```
