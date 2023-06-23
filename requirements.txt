@@ -1,0 +1,15 @@
+concurrent.futures
+gtts
+playsound
+pyautogui
+pyfiglet
+termcolor
+selenium
+speechrecognition
+chatterbot
+spacy
+pytube
+opencv-python
+pywin32
+wxPython
+pyHook
