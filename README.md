@@ -9,7 +9,6 @@ Welcome to the NIA repository, a voice assistant for PC that allows you to launc
 Clone the NIA repository to your computer:
 ```
 $ git clone https://github.com/yourusername/niaproject.git
-
 ```
 Make sure you have Python 3 installed on your system.
 
